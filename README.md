@@ -11,7 +11,7 @@ Date: 07 Aug 2025
   - [ ] New File
   - [ ] Push to branch-1
 - [x] Create a new branch (branch-2) and checkout
-- [ ] Create 3 files into it and push to branch-2
+- [x] Create 3 files into it and push to branch-2
 - [ ] Merge branch-1 and branch-2 into main
 - [ ] Create 3rd branch
 - [ ] Clone & Pull
