@@ -1,0 +1,5 @@
+Git is a free and open-source distributed version control system.
+
+It helps version control codebases in an efficient manner.
+
+The Git project was initiated by the lengenary Linus Torvalds in order to help him and fellow developers collaborate on his earlier initiative - The Linux Kernel.
